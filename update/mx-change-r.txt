@@ -1,0 +1,7 @@
+SB MX-PLAYER UPDATE :
+
+🏷Base Update 1.45.2
+🔺We optimize forget PIN flow for Private folder
+🔺You can now manually select external subtitles on the local network shares
+🔺We have further optimized the navigation drawer and playback menu to provide a better experience.
+🔺This update also fixes the issues in handling of external Web URLs on Android 12 devices.
