@@ -1,6 +1,6 @@
 SB MX-PLAYER UPDATE :
 
-🏷Base Update 1.45.10
+🏷Base Update 1.58.0
 🔺We optimize forget PIN flow for Private folder
 🔺You can now manually select external subtitles on the local network shares
 🔺We have further optimized the navigation drawer and playback menu to provide a better experience.
